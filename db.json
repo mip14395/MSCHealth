@@ -1,0 +1,55 @@
+{
+  "users": [
+    {
+      "id": "8e73",
+      "role": "admin",
+      "name": "admin",
+      "phone": "0123456789",
+      "email": "qthaotrang0905@gmail.com",
+      "password": "123123"
+    }
+  ],
+  "appointmentsIC": [
+    {
+      "id": "6b7c79c3-716a-4d09-a656-c32d51f46bcf",
+      "doctorName": "Dr. Jiao Yang",
+      "speciality": "Dentist",
+      "name": "admin",
+      "phoneNumber": "0923247441"
+    },
+    {
+      "id": "495b990f-4620-495d-bb31-1f062dccf393",
+      "doctorName": " Dr. Stephny Grosh",
+      "speciality": "Dentist",
+      "name": "admin",
+      "phoneNumber": "0123123123"
+    },
+    {
+      "id": "65a7d118-f8c4-48b4-9131-c0c767b8ef07",
+      "doctorName": "Dr. Rachel Parker",
+      "speciality": "Gynecologist/Obstetrician",
+      "name": "admin",
+      "phoneNumber": "0923247441"
+    },
+    {
+      "id": "1adf166c-3a64-4608-ba46-8e7567c8a393",
+      "doctorName": "Dr. Mark D. Okusa",
+      "speciality": "General Physician",
+      "name": "admin",
+      "phoneNumber": "0123123123"
+    }
+  ],
+  "appointments": [
+    {
+      "id": "e08f5062-f130-4ee2-a16d-110299cad7a6",
+      "doctorName": "Dr. Jiao Yang",
+      "doctorSpeciality": "Dentist",
+      "name": "admin",
+      "phoneNumber": "0923247441",
+      "date": "0423-12-31",
+      "selectedSlot": "02:00 PM - 03:00 PM",
+      "email": "qthaotrang0905@gmail.com"
+    }
+  ],
+  "reviews": []
+}
