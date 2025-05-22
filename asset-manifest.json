@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/MSCHealth/static/css/main.fba2a153.css",
+    "main.js": "/MSCHealth/static/js/main.63d135e6.js",
+    "static/js/845.60199b6e.chunk.js": "/MSCHealth/static/js/845.60199b6e.chunk.js",
+    "static/media/book_appointment.jpg": "/MSCHealth/static/media/book_appointment.c68963c0d9cdac8ba37d.jpg",
+    "static/media/tips.jpg": "/MSCHealth/static/media/tips.5a51f8689e679209d348.jpg",
+    "static/media/self_check.jpg": "/MSCHealth/static/media/self_check.b042416b9880f21cd2c0.jpg",
+    "static/media/instant_consultation.jpg": "/MSCHealth/static/media/instant_consultation.33cb7b9da11699ca7d40.jpg",
+    "static/media/find_doctor.jpg": "/MSCHealth/static/media/find_doctor.3dab30e250ce71f5d0f9.jpg",
+    "static/media/logo.png": "/MSCHealth/static/media/logo.0fea53ccd9c4c1ce5c7c.png",
+    "static/media/Search.png": "/MSCHealth/static/media/Search.f27a19b1ba30311d1718.png",
+    "index.html": "/MSCHealth/index.html",
+    "main.fba2a153.css.map": "/MSCHealth/static/css/main.fba2a153.css.map",
+    "main.63d135e6.js.map": "/MSCHealth/static/js/main.63d135e6.js.map",
+    "845.60199b6e.chunk.js.map": "/MSCHealth/static/js/845.60199b6e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fba2a153.css",
+    "static/js/main.63d135e6.js"
+  ]
+}
