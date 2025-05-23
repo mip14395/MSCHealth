@@ -15,7 +15,7 @@ import ReportsLayout from "./Components/ReportsLayout/ReportsLayout";
 function App() {
   return (
     <div className="App">
-      <BrowserRouter>
+      <BrowserRouter basename="/MSCHealth">
         <Navbar />
         <Notification />
         <Routes>
