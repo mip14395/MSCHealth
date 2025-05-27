@@ -1,0 +1,48 @@
+{
+  "users": [
+    {
+      "id": "8e73",
+      "role": "admin",
+      "name": "admin",
+      "phone": "0123456789",
+      "email": "qthaotrang0905@gmail.com",
+      "password": "123123"
+    }
+  ],
+  "appointmentsIC": [
+    {
+      "id": "495b990f-4620-495d-bb31-1f062dccf393",
+      "doctorName": " Dr. Stephny Grosh",
+      "speciality": "Dentist",
+      "name": "admin",
+      "phoneNumber": "0123123123"
+    },
+    {
+      "id": "65a7d118-f8c4-48b4-9131-c0c767b8ef07",
+      "doctorName": "Dr. Rachel Parker",
+      "speciality": "Gynecologist/Obstetrician",
+      "name": "admin",
+      "phoneNumber": "0923247441"
+    },
+    {
+      "id": "1adf166c-3a64-4608-ba46-8e7567c8a393",
+      "doctorName": "Dr. Mark D. Okusa",
+      "speciality": "General Physician",
+      "name": "admin",
+      "phoneNumber": "0123123123"
+    }
+  ],
+  "appointments": [
+    {
+      "id": "0dba8fdf-533e-4235-98a1-a81ff006914c",
+      "doctorName": "Dr. Denis Raj",
+      "doctorSpeciality": "Dentist",
+      "name": "admin",
+      "phoneNumber": "0923247441",
+      "date": "0423-03-12",
+      "selectedSlot": "10:00 AM - 11:00 AM",
+      "email": "qthaotrang0905@gmail.com"
+    }
+  ],
+  "reviews": []
+}
